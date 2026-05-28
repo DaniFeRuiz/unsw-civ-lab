@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "c099f583"
+  },
+  "about.qmd": {
+    "about.html": "2f4925bf"
+  },
+  "research.qmd": {
+    "research.html": "2c5f2256"
+  },
+  "contact.qmd": {
+    "contact.html": "88e495e8"
+  },
+  "publications.qmd": {
+    "publications.html": "bb3a5ddd"
+  },
+  "people.qmd": {
+    "people.html": "f74934dc"
+  },
+  "README-first-steps.md": {
+    "README-first-steps.html": "65188c18"
+  },
+  "join-us.qmd": {
+    "join-us.html": "cba501d9"
+  }
+}

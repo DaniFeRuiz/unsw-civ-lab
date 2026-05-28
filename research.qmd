@@ -1,0 +1,76 @@
+---
+title: "Research"
+description: "Research themes of the Cellular Immunology and Vaccinology Lab."
+---
+
+::: {.hero}
+::: {.hero-copy}
+
+Our laboratory studies how T cells become protective, durable and tissue-localised, and how those principles can be used to design next-generation vaccines and immune interventions.
+
+The program is organised around three connected themes.
+
+:::
+
+::: {.hero-image-wrap}
+![](assets/images/LiverTrm_2.png){.hero-image fig-alt="Schematic showing activation of naive T cells by dendritic cells and the formation of circulating and tissue-resident memory T cells."}
+:::
+:::
+
+
+## 1. Fundamental T cell biology and non-coding RNA
+
+T cell fate decisions sit at the centre of protective immunity, vaccine efficacy and immune pathology. We investigate how T cells integrate antigen, cytokine and tissue-derived signals to become effector cells, circulating memory cells or tissue-resident memory cells.
+
+A major focus is the role of non-coding RNA in cytokine-instructed T cell differentiation and immune programming. This work brings together cellular immunology, transcriptomics, genomics and RNA biology to ask how RNA-based regulation controls immune function.
+
+Key questions include:
+
+- How do cytokines instruct durable T cell differentiation?
+- Which non-coding RNAs regulate protective or pathogenic T cell states?
+- Can RNA biology be harnessed to modulate immune responses therapeutically?
+
+## 2. Experimental vaccine development and mRNA vaccine platforms
+
+Effective vaccines must generate the right immune response, in the right tissue, for long enough.
+
+We apply mechanistic T cell immunology to vaccine and immunotherapy design, with a focus on platforms that generate strong cellular immunity. Current work includes mRNA-based vaccine strategies, immune evaluation of vaccine formulations, and approaches that direct T cell responses toward tissue-resident memory.
+
+This theme connects the lab to UNSW strengths in RNA science, delivery chemistry, genomics, infection biology and translational vaccine development.
+
+Key questions include:
+
+- How can vaccine platforms be tuned to generate tissue-localised memory T cells?
+- Which formulation and delivery strategies best promote protective T cell immunity?
+- How can preclinical immune readouts better predict useful vaccine responses?
+
+## 3. Malaria immunology and tissue-resident memory T cell-based vaccination
+
+Malaria remains a major global health challenge and an important system for understanding tissue-localised immunity. Our work has helped define liver-resident memory CD8+ T cells as a front-line defence against malaria liver-stage infection and has shown that vaccination can be designed to generate these protective cells.
+
+At UNSW, we are extending this work toward antigen discovery, mRNA and other vaccine platforms, and human translation. We study the antigenic, cellular and tissue-localisation requirements for durable protection, and work with partners in malaria-endemic settings to test whether mechanisms discovered experimentally are relevant to human immunity.
+
+Key questions include:
+
+- What makes a malaria antigen effective for T cell-mediated protection?
+- How do liver-resident memory T cells form, persist and protect?
+- How does blood-stage malaria affect vaccine-induced cellular immunity?
+- Can mechanisms from mouse models be translated into human malaria immunity?
+
+## Platforms and approaches
+
+We combine experimental immunology and translational systems, including:
+
+- flow cytometry, tetramer-based immune profiling and T cell functional assays
+- preclinical infection and vaccination models
+- tissue-resident memory T cell analysis across organs
+- transcriptomics, RNA biology and genomics
+- antigen discovery and vaccine immunology
+- human sample analysis through collaborative studies
+- partnerships in malaria-endemic and vaccine-development settings
+
+## Translation
+
+The long-term goal is to use T cell biology to build better vaccines and immune interventions. We work across fundamental discovery, RNA biology, vaccine design, preclinical models and human translation.
+
+

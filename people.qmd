@@ -1,0 +1,127 @@
+---
+title: "People"
+description: "Members and collaborators of the Cellular Immunology and Vaccinology Lab."
+---
+
+
+## Group leader
+
+### Daniel Fernández-Ruiz
+
+**Senior Research Fellow and Laboratory Head**  
+School of Biomedical Sciences and UNSW RNA Institute, UNSW Sydney
+
+Daniel is a cellular immunologist and experimental vaccinologist studying T cell immunity, tissue-resident memory T cells and vaccine development. His work has focused on malaria immunology, liver-resident memory T cell biology, antigen discovery, vaccine design and, more recently, non-coding RNA control of T cell fate.
+
+[UNSW profile](https://www.unsw.edu.au/staff/daniel-fernandez-ruiz) · [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5napywIAAAAJ) · [ORCID](https://orcid.org/0000-0002-4040-9121)
+
+## Current Laboratory members
+
+### Alice Wong
+
+**Postdoctoral Fellow**
+
+Alice works on T cell biology, immune programming and vaccine-related projects in the CIV Lab.
+
+### James Di Lisio
+
+**Postdoctoral Fellow**
+
+James works on T cell function and immune regulation, contributing to the lab’s programs in T cell biology and translational immunology.
+
+### Sahara Waide
+
+**PhD candidate**
+
+Sahara studies T cell immunity and mRNA vaccine development in the CIV Lab.
+
+
+
+### Grace Peters
+
+**PhD Candidate**  
+Co-supervised with Prof. Jake Baum
+
+Grace works on projects at the interface of liver stage malaria biology and T cell biology.
+
+### Peeter Graham-Vilo
+
+**PhD Candidate**  
+Co-supervised with Prof. Pall Thordarson
+
+Peeter works on interdisciplinary projects linking immunology, chemistry and vaccine development.
+
+### Feyza Colakoglu-Veli
+
+**Research Assistant**
+
+Feyza contributes to laboratory research activities and experimental support across multiple projects.
+
+### Krithika Harikrishna
+
+**Honours Student**  
+Co-supervised with Dr Lisa Sedger
+
+Krithika works on the tracking and characterisation of human T cell activation.
+
+### Weijian (Bryan) Chen
+
+**Honours Student**  
+Co-supervised with Dr Selene Fernandez-Valverde
+
+Bryan works on RNA biology and immune regulation.
+
+### Andre Shamoun Adeh
+
+**Talented Student Program**
+
+Andre is undertaking research training and laboratory experience within the CIV Lab.
+
+---
+
+## Former laboratory members and trainees
+
+### Oscar Caswell
+
+**Honours Student**
+
+### Ksenia Lisitskaya
+
+**Talented Student Program**
+
+---
+
+## Collaborators
+
+The CIV Lab collaborates widely across immunology, RNA biology, genomics, chemistry, vaccinology and infectious disease research, with partnerships spanning fundamental immunology, translational vaccine development and human infectious disease studies.
+
+### UNSW and Australian collaborators
+
+- **Prof. Jake Baum** — malaria biology, translational malaria research and vaccine development  
+- **Prof. John Mattick** — non-coding RNA biology and genomics  
+- **A/Prof. Martin Smith** — genomics and RNA biology  
+- **Prof. Pall Thordarson** — chemistry, biomolecular delivery systems and vaccine formulations  
+- **A/Prof. Orazio Vittorio** — cancer immunology and translational therapeutics  
+- **A/Prof. Tatyana Chtanova** — experimental cancer therapeutics and tissue immunology  
+- **Dr Daniel Luque** — virus-like particle vaccines and immunisation platforms  
+- **A/Prof. Lisa Sedger** — human T cell biology and translational immunology  
+- **Prof. Selene Fernandez-Valverde** — genomics and RNA-focused approaches  
+- **Prof. Shane Grey** — immunology and inflammatory disease  
+- **Prof. Tatyana Chtanova** — tissue immunology and experimental therapeutics  
+  
+
+### International collaborators
+
+- **Prof. Nathalie Labrecque** (University of Montreal, Canada) — T cell biology and tissue-resident immunity  
+- **Prof. Jetsumon Sattabongkot** (Mahidol University, Thailand) — malaria biology and endemic-field studies  
+- **Dr Wanlapa Roobsoong** (Mahidol Vivax Research Unit, Thailand) — human malaria immunology and translational studies  
+- **Dr Patricia Cristina da Costa Neves** (Bio-Manguinhos / Fiocruz, Brazil) — mRNA vaccine development and translational vaccinology  
+- **Prof. Masahiro Ono** (Imperial College London, UK) — T cell biology and immunoregulation  
+
+
+
+
+::: {.hero-image-wrap}
+![](assets/images/SpleenNv_1.png){.hero-image fig-alt="Naive T cells from Spleen"}
+:::
+:::

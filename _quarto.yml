@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "CIV Lab"
+  site-url: "https://unswcivlab.org"
+  navbar:
+    pinned: true
+    title: "CIV Lab"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: join-us.qmd
+        text: Join us
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: UNSW profile
+        href: https://www.unsw.edu.au/staff/daniel-fernandez-ruiz
+      - text: Google Scholar
+        href: https://scholar.google.com.au/citations?hl=en&user=5napywIAAAAJ
+      - text: ORCID
+        href: https://orcid.org/0000-0002-4040-9121
+  page-footer:
+    left: "© 2026 Cellular Immunology and Vaccinology Lab, UNSW Sydney"
+    right:
+      - text: "UNSW staff profile"
+        href: https://www.unsw.edu.au/staff/daniel-fernandez-ruiz
+      - text: "UNSW group page"
+        href: https://www.unsw.edu.au/medicine-health/our-schools/biomedical-sciences/research-and-impact/research-themes/research-groups/fernandez-ruiz-group
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+    smooth-scroll: true
+
+editor: visual
