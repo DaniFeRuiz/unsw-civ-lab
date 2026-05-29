@@ -1,65 +1,12 @@
 ---
 title: "Publications"
-description: "Selected publications from the Fernández-Ruiz / CIV Lab research program."
+description: "Selected publications from the Fernández-Ruiz / CIV Lab research program, including collaborative works led by partner groups."
 ---
 
 
 A full and updated publication record is available through [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5napywIAAAAJ), [ORCID](https://orcid.org/0000-0002-4040-9121) and the [UNSW staff profile](https://www.unsw.edu.au/staff/daniel-fernandez-ruiz).
 
 ## Selected recent and foundational papers
-
-### Long-lived liver-resident memory T cells drive malaria vaccine protection
-
-de Menezes MN, Ge Z, Cozijnsen A, Gras S, Bertolino P, Caminschi I, Lahoud MH, Yui K, McFadden GI, Beattie L, Heath WR, Fernández-Ruiz D.  
-**Long-lived liver-resident memory T cells of biased specificities for abundant sporozoite antigens drive malaria protection by radiation-attenuated sporozoite vaccination.**  
-*PLoS Pathogens*, 2025.  
-[doi:10.1371/journal.ppat.1012731](https://doi.org/10.1371/journal.ppat.1012731)
-
-A mechanistic study showing how durable malaria protection through immunisation with radiation-attenuated sporozoites is linked to long-lived liver TRM cells targeting abundant sporozoite antigens.
-
----
-
-### Liver-resident memory T cells are key mediators of protection against malaria
-
-Fernández-Ruiz D, Ng WY, Holz LE, Ma JZ, Zaid A, Wong YC, et al.  
-**Liver-resident memory CD8+ T cells form a front-line defense against malaria liver-stage infection.**  
-*Immunity*, 2016.  
-[doi:10.1016/j.immuni.2016.08.011](https://doi.org/10.1016/j.immuni.2016.08.011)
-
-A foundational paper establishing liver-resident memory CD8 T cells as key mediators of protection against malaria liver-stage infection, and demonstrating their selective generation through tailored vaccination strategies.
-
----
-
-### RPL6 as a protective malaria CD8 T cell antigen
-
-Valencia-Hernandez AM, Ng WY, Ghazanfari N, Ghilas S, de Menezes MN, Holz LE, et al.  
-**A natural peptide antigen within the Plasmodium ribosomal protein RPL6 confers liver TRM cell-mediated immunity against malaria in mice.**  
-*Cell Host & Microbe*, 2020.  
-[doi:10.1016/j.chom.2020.04.010](https://doi.org/10.1016/j.chom.2020.04.010)
-
-An antigen discovery study identifying RPL6 as a conserved and highly protective target for CD8 TRM-mediated immunity against malaria in the liver.
-
----
-
-### Holz LE, Prier JE, Freestone D, Steiner TM, English K, Johnson DN, et al.
-
-**CD8(+) T Cell Activation Leads to Constitutive Formation of Liver Tissue-Resident Memory T Cells that Seed a Large and Flexible Niche in the Liver.**  
-*Cell Reports* 2018;25(1):68–79.e4.  
-[doi:10.1016/j.celrep.2018.08.094](https://doi.org/10.1016/j.celrep.2018.08.094)
-
-A foundational study showing that liver TRM cells can form spontaneously from activated CD8 T cells.
-
----
-
-### Enders MH, Bayarsaikhan G, Ghilas S, Chua YC, May R, de Menezes MN, et al.
-
-**Plasmodium berghei Hsp90 contains a natural immunogenic I-A(b)-restricted antigen common to rodent and human Plasmodium species.**  
-*Current Research in Immunology* 2021;2:79–92.  
-[doi:10.1016/j.crimmu.2021.06.002](https://doi.org/10.1016/j.crimmu.2021.06.002)
-
-An antigen-discovery paper identifying Hsp90 as a conserved target for CD4 T cell immunity against malaria.
-
----
 
 ### γδ T cell-derived IL-4 initiates CD8+ T cell immunity
 
@@ -68,7 +15,31 @@ Le S, Dooley N, Murphy D, Liu S, Gandolfo LC, Ge Z, et al.
 *Nature Immunology*, 2026.  
 [doi:10.1038/s41590-025-02397-z](https://doi.org/10.1038/s41590-025-02397-z)
 
-A mechanistic immunology study identifying γδ T cell-derived IL-4 as a key signal for the development of CD8 T cell immunity against malaria.
+A mechanistic immunology study identifying γδ T cell-derived IL-4 as a key signal for the development of CD8 T cell immunity against malaria.  
+Collaboration with Lynette Beattie (University of Melbourne)
+
+---
+
+### Cross-protective SARS-CoV-2 virus-like particle vaccine
+
+Earnest L, Ruiz DF, Edeling MA, Montoya JC, Yap AHY, Wong CY, et al.  
+**Preclinical development of a cross-protective β-SARS-CoV-2 virus-like particle vaccine adjuvanted with MF59.**  
+*npj Vaccines*, 2026.  
+[doi:10.1038/s41541-025-01355-y](https://doi.org/10.1038/s41541-025-01355-y)
+
+A translational vaccinology study developing a broadly protective SARS-CoV-2 virus-like particle vaccine platform.  
+Collaboration with Joe Torresi (University of Melbourne)
+
+---
+
+### Sporozoite-specific liver-resident memory T cells drive malaria protection by the RAS vaccine
+
+de Menezes MN, Ge Z, Cozijnsen A, Gras S, Bertolino P, Caminschi I, Lahoud MH, Yui K, McFadden GI, Beattie L, Heath WR, Fernández-Ruiz D.  
+**Long-lived liver-resident memory T cells of biased specificities for abundant sporozoite antigens drive malaria protection by radiation-attenuated sporozoite vaccination.**  
+*PLoS Pathogens*, 2025.  
+[doi:10.1371/journal.ppat.1012731](https://doi.org/10.1371/journal.ppat.1012731)
+
+A mechanistic study showing how durable malaria protection through immunisation with radiation-attenuated sporozoites is linked to long-lived liver TRM cells targeting abundant sporozoite antigens.
 
 ---
 
@@ -94,6 +65,17 @@ This work demonstrates how vaccine adjuvant formulation can strongly influence t
 
 ---
 
+### Identification of a CD4 T cell epitope in Hsp90 - The cognate antigen of PbT-II cells
+
+**Plasmodium berghei Hsp90 contains a natural immunogenic I-A(b)-restricted antigen common to rodent and human Plasmodium species.**  
+*Current Research in Immunology* 2021;2:79–92.  
+[doi:10.1016/j.crimmu.2021.06.002](https://doi.org/10.1016/j.crimmu.2021.06.002)
+
+An antigen-discovery paper identifying Hsp90 as a conserved target for CD4 T cell immunity against malaria.
+
+---
+
+
 ### Glycolipid-peptide vaccination induces protective liver TRM cells
 
 Holz LE, Chua YC, de Menezes MN, Anderson RJ, Draper SL, Compton BJ, et al.  
@@ -105,14 +87,32 @@ A vaccine-engineering study showing that glycolipid-peptide vaccination can gene
 
 ---
 
-### Plasmodium-specific TCR transgenic tools
+::: {.callout-note appearance="minimal" icon=false style="border-left: 4px solid #1a3a5c; background-color: #eef3f8;"}
+⭐ **Foundational paper**
 
-Lau LS, Fernández-Ruiz D, Mollard V, Sturm A, Neller MA, Cozijnsen A, et al.  
-**CD8+ T cells from a novel T cell receptor transgenic mouse induce liver-stage immunity that can be boosted by blood-stage infection in rodent malaria.**  
-*PLoS Pathogens*, 2014.  
-[doi:10.1371/journal.ppat.1004135](https://doi.org/10.1371/journal.ppat.1004135)
+### RPL6 as a protective malaria CD8 T cell antigen - and the cognate antigen of PbT-I cells
 
-This paper introduced the PbT-I transgenic mouse line, a major experimental tool for studying malaria-specific CD8 T cell immunity.
+Valencia-Hernandez AM, Ng WY, Ghazanfari N, Ghilas S, de Menezes MN, Holz LE, et al.  
+**A natural peptide antigen within the Plasmodium ribosomal protein RPL6 confers liver TRM cell-mediated immunity against malaria in mice.**  
+*Cell Host & Microbe*, 2020.  
+[doi:10.1016/j.chom.2020.04.010](https://doi.org/10.1016/j.chom.2020.04.010)
+
+An antigen discovery study identifying RPL6 as a conserved and highly protective target for CD8 TRM-mediated immunity against malaria in the liver.
+:::
+
+---
+
+### Spontaneous liver TRM cell formation from activated T cells
+
+**CD8(+) T Cell Activation Leads to Constitutive Formation of Liver Tissue-Resident Memory T Cells that Seed a Large and Flexible Niche in the Liver.**  
+*Cell Reports* 2018;25(1):68–79.e4.  
+[doi:10.1016/j.celrep.2018.08.094](https://doi.org/10.1016/j.celrep.2018.08.094)
+
+A foundational study showing that liver TRM cells can form spontaneously from activated CD8 T cells.
+
+---
+
+### Generation of the PbT-II mouse line - Plasmodium-specific, MHC-II restricted (CD4 T cells)
 
 Fernández-Ruiz D, Lau LS, Ghazanfari N, Jones CM, Ng WY, Davey GM, et al.  
 **Development of a novel CD4+ TCR transgenic line that reveals a dominant role for CD8+ dendritic cells and CD40 signaling in the generation of helper and CTL responses to blood-stage malaria.**  
@@ -123,12 +123,26 @@ This study introduced the PbT-II transgenic mouse line and clarified how dendrit
 
 ---
 
-### Cross-protective SARS-CoV-2 virus-like particle vaccine
+::: {.callout-note appearance="minimal" icon=false style="border-left: 4px solid #1a3a5c; background-color: #eef3f8;"}
+⭐ **Foundational paper**
 
-Earnest L, Ruiz DF, Edeling MA, Montoya JC, Yap AHY, Wong CY, et al.  
-**Preclinical development of a cross-protective β-SARS-CoV-2 virus-like particle vaccine adjuvanted with MF59.**  
-*npj Vaccines*, 2026.  
-[doi:10.1038/s41541-025-01355-y](https://doi.org/10.1038/s41541-025-01355-y)
+### Liver-resident memory T cells are key mediators of protection against malaria
 
-A translational vaccinology study developing a broadly protective SARS-CoV-2 virus-like particle vaccine platform.
+Fernández-Ruiz D, Ng WY, Holz LE, Ma JZ, Zaid A, Wong YC, et al.  
+**Liver-resident memory CD8+ T cells form a front-line defense against malaria liver-stage infection.**  
+*Immunity*, 2016.  
+[doi:10.1016/j.immuni.2016.08.011](https://doi.org/10.1016/j.immuni.2016.08.011)
 
+A foundational paper establishing liver-resident memory CD8 T cells as key mediators of protection against malaria liver-stage infection, and demonstrating their selective generation through tailored vaccination strategies.
+:::
+
+---
+
+### Generation of the PbT-I mouse line - Plasmodium-specific, MHC-I restricted (CD8 T cells)
+
+Lau LS, Fernández-Ruiz D, Mollard V, Sturm A, Neller MA, Cozijnsen A, et al.  
+**CD8+ T cells from a novel T cell receptor transgenic mouse induce liver-stage immunity that can be boosted by blood-stage infection in rodent malaria.**  
+*PLoS Pathogens*, 2014.  
+[doi:10.1371/journal.ppat.1004135](https://doi.org/10.1371/journal.ppat.1004135)
+
+This paper introduced the PbT-I transgenic mouse line, a major experimental tool for studying malaria-specific CD8 T cell immunity.

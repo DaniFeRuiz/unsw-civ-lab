@@ -22,12 +22,9 @@ website:
       - href: contact.qmd
         text: Contact
     right:
-      - text: UNSW profile
-        href: https://www.unsw.edu.au/staff/daniel-fernandez-ruiz
-      - text: Google Scholar
-        href: https://scholar.google.com.au/citations?hl=en&user=5napywIAAAAJ
-      - text: ORCID
-        href: https://orcid.org/0000-0002-4040-9121
+      - text: UNSW lab page
+        href: https://www.unsw.edu.au/medicine-health/our-schools/biomedical-sciences/research-and-impact/research-themes/research-groups/fernandez-ruiz-group
+      
   page-footer:
     left: "© 2026 Cellular Immunology and Vaccinology Lab, UNSW Sydney"
     right:
