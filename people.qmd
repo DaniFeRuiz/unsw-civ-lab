@@ -105,7 +105,7 @@ The CIV Lab collaborates widely across immunology, RNA biology, genomics, chemis
 - **A/Prof. Tatyana Chtanova** — experimental cancer therapeutics and tissue immunology  
 - **Dr Daniel Luque** — virus-like particle vaccines and immunisation platforms  
 - **A/Prof. Lisa Sedger** — human T cell biology and translational immunology  
-- **Prof. Selene Fernandez-Valverde** — genomics and RNA-focused approaches  
+- **Dr. Selene Fernandez-Valverde** — genomics and RNA-focused approaches  
 - **Prof. Shane Grey** — immunology and inflammatory disease  
 - **Dr. Ernest Moles** — cancer therapeutics 
   
