@@ -22,7 +22,5 @@ Australia
 
 ## Links
 
-- [UNSW staff profile](https://www.unsw.edu.au/staff/daniel-fernandez-ruiz)
 - [UNSW group page](https://www.unsw.edu.au/medicine-health/our-schools/biomedical-sciences/research-and-impact/research-themes/research-groups/fernandez-ruiz-group)
-- [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5napywIAAAAJ)
-- [ORCID](https://orcid.org/0000-0002-4040-9121)
+
