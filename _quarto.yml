@@ -35,6 +35,7 @@ website:
 
 format:
   html:
+    include-before-body: cloudflare-analytics.html
     theme: cosmo
     toc: true
     css: styles.css

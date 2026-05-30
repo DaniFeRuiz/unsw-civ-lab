@@ -113,7 +113,7 @@ The CIV Lab collaborates widely across immunology, RNA biology, genomics, chemis
 
 ### International collaborators
 
-- **Prof. Nathalie Labrecque** (University of Montreal, Canada) — T cell biology and tissue-resident immunity  
+- **Prof. Nathalie Labrecque** (University of Montreal, Canada) — T cell biology and tissue resident immunity  
 - **Prof. Jetsumon Sattabongkot** (Mahidol University, Thailand) — malaria biology and endemic-field studies  
 - **Dr Wanlapa Roobsoong** (Mahidol Vivax Research Unit, Thailand) — human malaria immunology and translational studies  
 - **Dr Patricia Cristina da Costa Neves** (Bio-Manguinhos / Fiocruz, Brazil) — mRNA vaccine development and translational vaccinology  
