@@ -50,8 +50,8 @@ We study liver-resident memory T cells and malaria immunity, using preclinical m
 
 ## Recent focus
 
-The lab is building a program at the interface of cellular immunology, RNA science and translational vaccinology. Current directions include non-coding RNA regulation of T cell fate, mRNA vaccine platforms for T cell-based protection, and malaria immunology in experimental and human systems.
+The lab's program sits at the interface of cellular immunology, RNA science and translational vaccinology. Current directions include non-coding RNA regulation of T cell fate, mRNA vaccine platforms for T cell-based protection, and malaria immunology in experimental and human systems.
 
 ## Where we work
 
-The lab is based at the UNSW School of Biomedical Sciences and the UNSW RNA Institute in Sydney, Australia. We collaborate across immunology, genomics, RNA biology, chemistry, parasite biology, human samples and vaccine development.
+The lab is based at the UNSW School of Biomedical Sciences and the [UNSW RNA Institute](https://www.unsw.edu.au/institutes/rna) in Sydney, Australia. We collaborate across immunology, genomics, RNA biology, chemistry, parasite biology, human samples and vaccine development.

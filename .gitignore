@@ -1,2 +1,6 @@
-/.quarto/
-**/*.quarto_ipynb
+.quarto/
+.Rproj.user/
+.DS_Store
+Thumbs.db
+v1/
+v2/

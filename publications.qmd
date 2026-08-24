@@ -8,7 +8,19 @@ A full and updated publication record is available through [Google Scholar](http
 
 ## Selected recent and foundational papers
 
-### γδ T cell-derived IL-4 initiates CD8+ T cell immunity
+### Late liver-stage chemovaccination generates durable malaria immunity
+
+Steel RWJ, Chua YC, Abdalla WAI, McConville R, Ford A, Caiazzo S, Hesping E, Fernandez-Ruiz D, Holz LE, Heath WR, McCauley JA, Olsen DB, Boddey JA.  
+**Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria.**  
+*Science*, 2026;393(6812):eaea7605.  
+[doi:10.1126/science.aea7605](https://doi.org/10.1126/science.aea7605)
+
+A late liver-stage chemovaccination strategy generated exceptionally durable, multi-layered protection against malaria in mice, with subsequent parasite exposure acting as an immune booster.  
+Collaboration with Justin Boddey and colleagues (WEHI)
+
+---
+
+### γδ T cells provide an early IL-4 signal for CD8+ T cell immunity
 
 Le S, Dooley N, Murphy D, Liu S, Gandolfo LC, Ge Z, et al.  
 **γδ T cell-derived IL-4 initiates CD8+ T cell immunity.**  
@@ -67,8 +79,9 @@ This work demonstrates how vaccine adjuvant formulation can strongly influence t
 
 ### Identification of a CD4 T cell epitope in Hsp90 - The cognate antigen of PbT-II cells
 
+Enders MH, Bayarsaikhan G, Ghilas S, Chua YC, May R, de Menezes MN, et al.  
 **Plasmodium berghei Hsp90 contains a natural immunogenic I-A(b)-restricted antigen common to rodent and human Plasmodium species.**  
-*Current Research in Immunology* 2021;2:79–92.  
+*Current Research in Immunology*, 2021;2:79–92.  
 [doi:10.1016/j.crimmu.2021.06.002](https://doi.org/10.1016/j.crimmu.2021.06.002)
 
 An antigen-discovery paper identifying Hsp90 as a conserved target for CD4 T cell immunity against malaria.
@@ -104,8 +117,9 @@ An antigen discovery study identifying RPL6 as a conserved and highly protective
 
 ### Spontaneous liver TRM cell formation from activated T cells
 
+Holz LE, Prier JE, Freestone D, Steiner TM, English K, Johnson DN, et al.  
 **CD8(+) T Cell Activation Leads to Constitutive Formation of Liver Tissue-Resident Memory T Cells that Seed a Large and Flexible Niche in the Liver.**  
-*Cell Reports* 2018;25(1):68–79.e4.  
+*Cell Reports*, 2018;25(1):68–79.e4.  
 [doi:10.1016/j.celrep.2018.08.094](https://doi.org/10.1016/j.celrep.2018.08.094)
 
 A foundational study showing that liver TRM cells can form spontaneously from activated CD8 T cells.

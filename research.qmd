@@ -13,7 +13,7 @@ The program is organised around three connected themes.
 :::
 
 ::: {.hero-image-wrap}
-![](assets/images/LiverTrm_2.png){.hero-image fig-alt="Schematic showing activation of naive T cells by dendritic cells and the formation of circulating and tissue-resident memory T cells."}
+![](assets/images/LiverTrm_2.png){.hero-image fig-alt="Electron micrograph of a liver tissue-resident memory T cell."}
 :::
 :::
 
@@ -36,7 +36,7 @@ Effective vaccines must generate the right immune response, in the right tissue,
 
 We apply mechanistic T cell immunology to vaccine and immunotherapy design, with a focus on platforms that generate strong cellular immunity. Current work includes mRNA-based vaccine strategies, immune evaluation of vaccine formulations, and approaches that direct T cell responses toward tissue-resident memory.
 
-This theme connects the lab to UNSW strengths in RNA science, delivery chemistry, genomics, infection biology and translational vaccine development.
+This theme connects the lab with the [UNSW RNA Institute](https://www.unsw.edu.au/institutes/rna) and broader UNSW strengths in RNA science, delivery chemistry, genomics, infection biology and translational vaccine development.
 
 Key questions include:
 

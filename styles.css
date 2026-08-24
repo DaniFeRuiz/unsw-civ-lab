@@ -4,7 +4,7 @@
   --civ-soft: #f6f8f6;
   --civ-border: #e3e7e2;
   --civ-green: #9aca3c;
-  --civ-orange: #ef4b24;
+  --civ-orange: #d13f1b;
   --civ-blue: #09a3d5;
 }
 
@@ -161,6 +161,20 @@ a:hover {
 
 main.content {
   padding-bottom: 3rem;
+}
+
+/* Keep former members visible without giving them the same visual weight as current members. */
+.alumni-list h3 {
+  font-size: 1.05rem;
+  font-weight: 650;
+  margin-top: 1rem;
+  margin-bottom: 0.15rem;
+}
+
+.alumni-list p {
+  font-size: 0.95rem;
+  color: var(--civ-muted);
+  margin-bottom: 0.7rem;
 }
 
 @media (max-width: 950px) {

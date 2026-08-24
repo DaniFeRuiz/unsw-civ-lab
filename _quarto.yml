@@ -1,10 +1,17 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - people.qmd
+    - publications.qmd
+    - join-us.qmd
+    - contact.qmd
 
 website:
   title: "CIV Lab"
-  site-url: "https://unswcivlab.org"
+  site-url: "https://fernandezruizlab.org"
   navbar:
     pinned: true
     title: "CIV Lab"
